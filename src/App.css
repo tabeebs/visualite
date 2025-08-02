@@ -2,7 +2,7 @@
   width: 100%;
   height: 100vh;
   overflow: hidden;
-  background-color: #060010;
+  background-color: #e1b12c;
 }
 
 * {
@@ -17,5 +17,5 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #060010;
+  background-color: #f1c40f;
 }

@@ -5,7 +5,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #060010;
+  background-color: #242424;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -27,7 +27,6 @@ body {
   padding: 0;
   min-width: 320px;
   min-height: 100vh;
-  background-color: #060010;
 }
 
 #root {
@@ -35,7 +34,6 @@ body {
   height: 100vh;
   margin: 0;
   padding: 0;
-  background-color: #060010;
 }
 
 h1 {
